@@ -1,0 +1,24 @@
+.section-characters{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--color-l-black);
+    gap: 40px;
+    padding-top: 60px;
+}
+.section-characters h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: var(--color-white);
+}
+
+.section-characters span{
+    color: var(--color-primary);
+}
+
+.conteiner-cards-characters{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 35px;
+    justify-content: center;
+}

@@ -1,0 +1,40 @@
+.card-caracteres{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    gap: 11px;
+    background-color: var(--color-g-black);
+    border-radius: 20px;
+    padding: 30px 20px;
+    width: 293px;
+    height: 422px;
+    
+}
+
+.card-caracteres > img{
+    width: 253px;
+    height: 216px;
+    border-radius: 50px;
+}
+
+.card-caracteres h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--color-white);
+    margin: 0 auto;
+    
+}
+
+.description-caracteres ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    color: var(--color-white);
+    gap: 10px;
+}
+
+.description-caracteres ul li{
+    display: flex;
+    gap: 10px;
+}

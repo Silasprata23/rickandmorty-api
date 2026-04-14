@@ -3,7 +3,7 @@ header{
     justify-content: flex-end;
     align-items: center;
     background-color: var(--color-primary);
-    padding: 10px 0;
+    padding: 10px 35px;
 }
 
 .headerWrapper a{

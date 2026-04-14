@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-black);
+    height: 146px;
+}
+
+.footer p {
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--color-white);
+}
+
+.footer span {
+    color: var(--color-primary);
+}

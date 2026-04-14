@@ -4,7 +4,7 @@
     align-items: center;
     background-color: var(--color-l-black);
     gap: 40px;
-    padding-top: 60px;
+    padding: 60px;
 }
 .section-characters h2{
     font-size: 40px;
